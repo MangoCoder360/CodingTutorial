@@ -1,2 +1,5 @@
-for i in range(100):
-    print(str(i) + " hello")
+def printMe():
+    print("hi #1")
+    print("h1 #2")
+for i in range(5):
+    printMe()
